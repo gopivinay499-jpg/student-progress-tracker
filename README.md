@@ -25,7 +25,7 @@ This project is implemented using a menu-driven approach and is suitable for und
 - Simple and user-friendly interface
 
 ## 📂 Project Files
-- `MiniProject_StudentProgressTracker_KGANESH.ipynb`  
+- `MiniProject_StudentProgressTracker_vinay.ipynb`  
   → Contains the complete implementation of the project
 
 ## ▶️ How to Execute
@@ -40,7 +40,7 @@ This project is implemented using a menu-driven approach and is suitable for und
 - Add login system for students and teachers
 
 ## 👨‍🎓 Author
-**Koduri Ganesh**  
+**sudikonda gopi venkata vinay**  
 B.Tech – Artificial Intelligence & Data Science  
 
 ## 📌 Declaration
